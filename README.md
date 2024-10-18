@@ -1,6 +1,6 @@
 # Application-of-Neural-Networks
-This project aims to explore the performance of a CNN-based model in classifying CIFAR-10 im-
-ages
+This project aims to explore the performance of a CNN-based model in classifying 
+CIFAR-10 images.
 
 ## Installation
 To run this notebook, you are required to have the following dependencies installed:
