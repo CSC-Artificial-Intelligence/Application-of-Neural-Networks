@@ -4,8 +4,10 @@ ages
 
 ## Installation
 To run this notebook, you are required to have the following dependencies installed:
+
     - `torch`
     - `torchvision`
+    
 These can be installed using pip:
     `pip install torch torchvision`
 
@@ -27,6 +29,7 @@ The dataset contains 10 classes:
 
 ## Training
 The model is trained using the following configurations:
+
     - Optimizer: Adam Optimizer with a learning rate of 0.001
     - Schedular: Cosine Annealing Schedular to dynamically adjust the learning rate during training
     - Loss function: Cross-Entropy Loss
